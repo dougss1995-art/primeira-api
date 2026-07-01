@@ -1,0 +1,8 @@
+PUT http://127.0.0.1:5000/alunos/3
+content-Type: application/json
+
+{
+  "nome" : "DOUGLAS",
+  "cursa" : "Técnico de informática"
+}
+
